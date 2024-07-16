@@ -1,9 +1,6 @@
 package com.aluracursos.api.foro.controller;
 
-import com.aluracursos.api.foro.domain.topico.DatosRegistroTopico;
-import com.aluracursos.api.foro.domain.topico.DatosRespuestaTopico;
-import com.aluracursos.api.foro.domain.topico.Topico;
-import com.aluracursos.api.foro.domain.topico.TopicoRepository;
+import com.aluracursos.api.foro.domain.topico.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

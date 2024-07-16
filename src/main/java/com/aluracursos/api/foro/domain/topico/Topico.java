@@ -1,6 +1,5 @@
 package com.aluracursos.api.foro.domain.topico;
 
-import com.aluracursos.api.foro.controller.DatosActualizarTopico;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
